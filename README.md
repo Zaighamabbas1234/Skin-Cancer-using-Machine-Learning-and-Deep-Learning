@@ -1,7 +1,7 @@
 # Skin Cancer Detection Using Machine Learning and Deep Learning:
 A Machine Learning and Deep Learning project focused on the analysis and classification of skin lesion images using image-processing and artificial intelligence techniques.
 The project demonstrates a complete **Data Science and Computer Vision workflow**, including data preparation, image preprocessing, exploratory analysis, model development, training, and evaluation.
-> ⚠️ **Disclaimer:** This project is developed for educational and research purposes. It is not a medical diagnostic system and should not be used as a substitute for professional medical evaluation.
+> **Disclaimer:** This project is developed for educational and research purposes. It is not a medical diagnostic system and should not be used as a substitute for professional medical evaluation.
 # About the Project:
 Skin lesion image analysis is an important application of Computer Vision and Deep Learning. Machine Learning models can be trained to identify patterns within image datasets and classify different categories of skin lesions.
 This project explores the use of **Machine Learning and Deep Learning techniques** for skin cancer/skin-lesion classification.
