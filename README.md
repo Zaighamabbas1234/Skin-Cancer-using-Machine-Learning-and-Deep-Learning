@@ -20,106 +20,71 @@ directory of the repository.
 * Train and test predictive models.
 * Evaluate model performance.
 * Understand the application of AI in medical image analysis.
-
----
-
-## 🔄 Project Workflow
-
+# Project Workflow:
 ```text
-Skin Lesion Dataset
+Skin Lesion Dataset.
         ↓
-Data Collection
+Data Collection.
         ↓
-Data Preprocessing
+Data Preprocessing.
         ↓
-Image Resizing
+Image Resizing.
         ↓
-Image Normalization
+Image Normalization.
         ↓
-Data Exploration
+Data Exploration.
         ↓
-Train / Test Split
+Train / Test Split.
         ↓
-Machine Learning / Deep Learning
+Machine Learning / Deep Learning.
         ↓
-Model Training
+Model Training.
         ↓
-Model Testing
+Model Testing.
         ↓
-Performance Evaluation
+Performance Evaluation.
         ↓
-Predictions
+Predictions.
 ```
-
----
-
-## 📊 Data Preprocessing
-
+# Data Preprocessing:
 Image preprocessing is an important part of the project because Machine Learning and Deep Learning models require appropriately prepared input data.
-
 Possible preprocessing steps include:
-
-* Loading image data
-* Checking image dimensions
-* Resizing images
-* Normalizing pixel values
-* Encoding target classes
-* Splitting data into training and testing sets
-* Preparing batches for model training
-
----
-
-## 🧠 Machine Learning & Deep Learning
-
+* Loading image data.
+* Checking image dimensions.
+* Resizing images.
+* Normalizing pixel values.
+* Encoding target classes.
+* Splitting data into training and testing sets.
+* Preparing batches for model training.
+# Machine Learning & Deep Learning:
 The project explores predictive modeling techniques for image-based classification.
-
-### Machine Learning
-
+# Machine Learning:
 Traditional Machine Learning approaches can be used after extracting suitable numerical or image-based features.
-
-### Deep Learning
-
+# Deep Learning:
 Deep Learning is particularly useful for image classification because neural networks can learn visual patterns directly from image data.
-
 Convolutional Neural Networks (**CNNs**) are widely used for image-classification tasks involving skin lesions.
-
----
-
-## 📈 Model Evaluation
-
+# Model Evaluation:
 Classification models can be evaluated using several performance metrics:
-
-* Accuracy
-* Precision
-* Recall
-* F1-Score
-* Confusion Matrix
-* Classification Report
-
+* Accuracy.
+* Precision.
+* Recall.
+* F1-Score.
+* Confusion Matrix.
+* Classification Report.
 Example:
-
 ```python
 from sklearn.metrics import accuracy_score
 from sklearn.metrics import classification_report
 from sklearn.metrics import confusion_matrix
-
 accuracy = accuracy_score(y_test, y_pred)
-
 print("Accuracy:", accuracy)
-
 print("\nClassification Report:")
 print(classification_report(y_test, y_pred))
-
 print("\nConfusion Matrix:")
 print(confusion_matrix(y_test, y_pred))
 ```
-
 Using multiple metrics provides a more complete view of classification performance.
-
----
-
-## 🛠️ Technologies Used
-
+# Technologies Used:
 | Technology            | Purpose                   |
 | --------------------- | ------------------------- |
 | 🐍 Python             | Programming               |
