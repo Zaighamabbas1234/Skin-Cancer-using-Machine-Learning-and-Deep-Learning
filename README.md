@@ -95,13 +95,8 @@ Using multiple metrics provides a more complete view of classification performan
 | 🤖 Scikit-learn       | Machine Learning          |
 | 🧠 TensorFlow / Keras | Deep Learning             |
 | 📓 Jupyter Notebook   | Development environment   |
-
 > Include only the libraries actually used in the project when finalizing this section.
-
----
-
-## 📂 Repository Structure
-
+# Repository Structure:
 ```text
 Skin-Cancer-using-Machine-Learning-and-Deep-Learning/
 │
@@ -113,78 +108,17 @@ Skin-Cancer-using-Machine-Learning-and-Deep-Learning/
 │
 └── README.md
 ```
-
 > The exact structure may vary depending on the files included in the repository.
-
----
-
-## 🚀 Getting Started
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/Zaighamabbas1234/Skin-Cancer-using-Machine-Learning-and-Deep-Learning.git
-```
-
-### 2. Navigate to the Project
-
-```bash
-cd Skin-Cancer-using-Machine-Learning-and-Deep-Learning
-```
-
-### 3. Install Required Libraries
-
-```bash
-pip install numpy pandas matplotlib seaborn scikit-learn tensorflow jupyter
-```
-
-### 4. Start Jupyter Notebook
-
-```bash
-jupyter notebook
-```
-
-Open the files inside the **Skin Cancer** folder and execute the notebook cells sequentially.
-
----
-
-## 💡 Skills Demonstrated
-
-This project demonstrates practical experience with:
-
-* Python Programming
-* Data Preprocessing
-* Exploratory Data Analysis
-* Data Visualization
-* Computer Vision
-* Image Preprocessing
-* Machine Learning
-* Deep Learning
-* Neural Networks
-* Model Training
-* Model Testing
-* Classification
-* Model Evaluation
-
----
-
-## 🔬 Applications
-
+# Applications:
 The techniques explored in this project are relevant to areas such as:
-
-* Medical Image Analysis
-* Computer Vision
-* Healthcare AI Research
-* Image Classification
-* Machine Learning Research
-* Deep Learning Applications
-
+* Medical Image Analysis.
+* Computer Vision.
+* Healthcare AI Research.
+* Image Classification.
+* Machine Learning Research.
+* Deep Learning Applications.
 Research repositories in this area commonly use datasets such as HAM10000 and ISIC for skin-lesion classification; the specific dataset used here should be identified according to the dataset actually used in your project.
-
----
-
-## 🔮 Future Improvements
-
+# Future Improvements:
 * Experiment with additional CNN architectures.
 * Apply data augmentation techniques.
 * Address class imbalance where applicable.
@@ -195,32 +129,10 @@ Research repositories in this area commonly use datasets such as HAM10000 and IS
 * Explore Explainable AI techniques such as Grad-CAM.
 * Improve model reproducibility and documentation.
 * Create a web-based demonstration for educational purposes.
-
----
-
-## ⚠️ Medical Disclaimer
-
+# Medical Disclaimer:
 This repository is intended **only for educational and research purposes**.
-
 The models and predictions in this project should not be interpreted as medical diagnoses or recommendations. Medical image classification systems require rigorous clinical validation, appropriate datasets, expert review, and regulatory consideration before they can be used in real-world healthcare settings.
 
+If you find this repository useful for learning SQL, feel free to **star ⭐ the repository** and explore the examples.
 ---
-
-## 👨‍💻 Author
-
-**Zaigham Abbas**
-
-Aspiring Data Scientist | Machine Learning | Deep Learning | Artificial Intelligence
-
-* GitHub: [ZaighamAbbas1234](https://github.com/Zaighamabbas1234)
-* LinkedIn: [Zaigham Abbas](https://www.linkedin.com/in/zaigham-abbas-181354242)
-
----
-
-## ⭐ Support
-
-If you find this project useful for learning **Machine Learning, Deep Learning, Computer Vision, and Data Science**, consider giving the repository a ⭐ and following my GitHub profile for more projects.
-
----
-
-### 🐍 Python • 🤖 Machine Learning • 🧠 Deep Learning • 👁️ Computer Vision • 🧬 Medical AI
+**Thank you for visiting this repository!**
