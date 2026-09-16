@@ -8,6 +8,7 @@ This project explores the use of **Machine Learning and Deep Learning techniques
 The main project files are located inside the:
 ```text
 Skin Cancer/
+Skin Cancer Project Code.ipynb
 ```
 directory of the repository.
 # Project Objectives:
